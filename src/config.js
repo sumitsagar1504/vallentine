@@ -2,8 +2,8 @@
 //  💝 PERSONALIZATION — Edit everything here!
 // ============================================================
 
-export const herName = "Baby";        // Her name
-export const yourName = "sumit_Sagar";        // Your name
+export const herName = "Anjali BabY";        // Her name
+export const yourName = "RAHUL";        // Your name
 
 export const customMessage =
   "Somewhere between our conversations, laughs, random moments " +
@@ -35,7 +35,7 @@ export const reasons = [
     body: "It's contagious, genuine, and honestly one of my favourite sounds.",
   },
   {
-    title: "Just You 💖",
+    title: "Just You darling 💖",
     body: "There's no single reason — it's everything about you, all at once.",
   },
 ];
