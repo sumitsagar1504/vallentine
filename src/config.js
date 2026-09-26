@@ -2,8 +2,8 @@
 //  💝 PERSONALIZATION — Edit everything here!
 // ============================================================
 
-export const herName = "Sarah";        // Her name
-export const yourName = "Alex";        // Your name
+export const herName = "Anjali";        // Her name
+export const yourName = "Sagar";        // Your name
 
 export const customMessage =
   "Somewhere between our conversations, laughs, random moments " +
