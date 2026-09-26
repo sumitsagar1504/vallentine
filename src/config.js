@@ -2,7 +2,7 @@
 //  💝 PERSONALIZATION — Edit everything here!
 // ============================================================
 
-export const herName = "shaket baby";        // Her name
+export const herName = "Baby";        // Her name
 export const yourName = "sumit_Sagar";        // Your name
 
 export const customMessage =
