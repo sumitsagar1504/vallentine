@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { herName, proposalSubheading } from '../config';
 
 const NO_MESSAGES = [
-  "Are you sure? 🥺",
+  "No 'Are you sure'? 🥺",
   "Think again 😭",
   "Really? 🙈",
   "Give me one chance? 🥹",
