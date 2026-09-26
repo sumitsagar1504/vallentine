@@ -3,7 +3,7 @@
 // ============================================================
 
 export const herName = "Anjali BabY";        // Her name
-export const yourName = "RAHUL";        // Your name
+export const yourName = "😘";        // Your name
 
 export const customMessage =
   "Somewhere between our conversations, laughs, random moments " +
